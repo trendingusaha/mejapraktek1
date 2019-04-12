@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "short_name": "Mejapraktek",
+  "start_url": "https://www.mejapraktek.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-8GvglB_JZeo/XLB-bDjoVBI/AAAAAAAAOr8/d4uCXeYkmU4cCCyDVFC0QoBcOBbR1aa1QCLcBGAs/s1600/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-LMcjSh6KLNc/XLB-_Ny3fLI/AAAAAAAAOsE/XJ_NMXsg9wEYVbSutfEqisKg9eUozSqKwCLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-QwQmG6UC2eA/XLB_boAdLOI/AAAAAAAAOsM/9CWFj-_gBp4zSqKa6KelrJHxzad6Oe8uQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-QwQmG6UC2eA/XLB_boAdLOI/AAAAAAAAOsM/9CWFj-_gBp4zSqKa6KelrJHxzad6Oe8uQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
